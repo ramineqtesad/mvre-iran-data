@@ -1,5 +1,3 @@
-# mvre-iran-data
-Iran MVRE research data (2005–2021): 20 indicators across 7 dimensions, harmonized inputs, variable documentation, and baseline index reproduction code.
 # MVRE Iran research data
 
 Research data and baseline reconstruction for **Minimum Viable Resilient Economy under Compound Shocks: Design and Evaluation of the MVRE Framework for Iran**.
@@ -51,4 +49,3 @@ Cite the dataset title, creator Ramin Gozarani Eghtesad, version and the actual 
 ## Publish
 
 Suggested repository name: `mvre-iran-data`. Follow `PUBLISH_FA.md` to upload the extracted contents and optionally activate the accompanying GitHub Pages site. Keep the publication URL out of the manuscript until the repository is actually accessible.
-
